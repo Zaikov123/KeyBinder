@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Binding1",
+        "Action": [ "DoSomething1" ],
+        "Key": "A"
+    },
+    {
+        "Name": "Binding2",
+        "Action": [ "DoSomething2" ],
+        "Key": "B"
+    },
+    {
+        "Name": "Binding3",
+        "Action": [ "DoSomething3" ],
+        "Key": "C"
+    }
+]
